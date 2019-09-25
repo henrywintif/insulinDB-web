@@ -1,0 +1,19 @@
+{
+  "name": "insulindb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --mode production"
+  },
+  "author": "Henry Winn",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.9.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9"
+  }
+}
